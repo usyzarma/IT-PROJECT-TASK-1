@@ -6,23 +6,6 @@ body{
   header{
     font-family: arial;
     color: white;}
-
-.navb{
-  background-color:#0c0e12;
-  overflow:hidden;
-}
-
-.navb a{
-  float:left;
-  color:#f2f2f2;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.navb a:hover{
-  background-color:#ddd;
-  color:black;
 }
  header h2,header h3, header h1{
    text-align: right;
